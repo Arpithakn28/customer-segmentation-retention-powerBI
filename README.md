@@ -149,15 +149,21 @@ Examples of questions to investigate:
 
 ### 1. Customer Overview
 
-![Customer Overview Dashboard](screenshots/customer_overview.png)
+
+## Dashboard Preview
+
+![Customer Segmentation and Retention Analytics Dashboard](customer-retention-dashboard.png)
+
 
 ### 2. Retention & Risk
 
-![Retention and Risk Dashboard](screenshots/retention_risk.png)
+![Customer Segmentation and Retention Analytics Dashboard](customer-retention-dashboard.png)
+
 
 ### 3. Segment Analysis
 
-![Customer Segment Analysis](screenshots/segment_analysis.png)
+![Customer Segmentation and Retention Analytics Dashboard](customer-retention-dashboard.png)
+
 
 *Replace these image paths with screenshots captured from the completed Power BI report.*
 
