@@ -153,9 +153,6 @@ Examples of questions to investigate:
 
 
 
-### 2. Retention & Risk
-
-
 ### 3. Segment Analysis
 
 <img width="592" height="457" alt="Screenshot 2026-10-18 190711" src="https://github.com/user-attachments/assets/72b68e8c-f934-4a0f-a109-0c4bdf947ae9" />
