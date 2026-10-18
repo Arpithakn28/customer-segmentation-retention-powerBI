@@ -1,3 +1,4 @@
+<img width="1157" height="642" alt="Customer retention dashboard" src="https://github.com/user-attachments/assets/1438b1b1-ed1a-475c-a4dc-1f7f8b1fb605" />
 
 # Customer Segmentation & Retention Analytics in Power BI
 
@@ -157,7 +158,8 @@ Examples of questions to investigate:
 
 ### 2. Retention & Risk
 
-![Customer Segmentation and Retention Analytics Dashboard](customer-retention-dashboard.png)
+<img width="1157" height="642" alt="Customer retention dashboard" src="https://github.com/user-attachments/assets/85cd2410-d9ab-43bc-a273-92f1c84afade" />
+
 
 
 ### 3. Segment Analysis
