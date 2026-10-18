@@ -146,15 +146,14 @@ Examples of questions to investigate:
 
 ## Screenshots
 
-### 1. Customer Overview
+### 1. Customer Overview 
+### 2. Retention & Risk
+
 <img width="1157" height="642" alt="Customer retention dashboard" src="https://github.com/user-attachments/assets/85cd2410-d9ab-43bc-a273-92f1c84afade" />
 
 
 
 ### 2. Retention & Risk
-
-<img width="1157" height="642" alt="Customer retention dashboard" src="https://github.com/user-attachments/assets/85cd2410-d9ab-43bc-a273-92f1c84afade" />
-
 
 
 ### 3. Segment Analysis
