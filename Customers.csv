@@ -1,0 +1,151 @@
+Customer ID,Customer Name,Age,Gender,City/Region,Occupation,Income Level,Join Date,Last Purchase Date,Purchase Frequency,Average Order Value (INR),Total Spend (INR),Preferred Product Category,Purchase Channel,Customer Type,Engagement Score,Satisfaction Score,Retention Status,Customer Segment,Loyalty Tier
+CUST0001,Varun Nair,36,Male,Mumbai,Engineer,Medium,2023-03-20,2026-08-13,2,535.27,1070.54,Beauty & Personal Care,App,Returning,88,5,Retained,Low Value,Bronze
+CUST0002,Aditi Joshi,24,Female,Bengaluru,Teacher,Medium,2023-09-13,2026-09-24,2,857.12,1714.23,Grocery,Offline,Returning,77,5,Retained,Low Value,Bronze
+CUST0003,Riya Nair,30,Female,Pune,Teacher,Low,2026-06-30,2026-08-07,1,1616.4,1616.4,Electronics,App,New,90,4,Retained,Low Value,Bronze
+CUST0004,Manoj Rao,28,Male,Mangaluru,Other,Medium,2023-04-13,2026-03-25,3,354.68,1064.04,Grocery,App,Returning,44,3,Churned,Low Value,Bronze
+CUST0005,Harish Verma,42,Male,Chennai,IT Professional,High,2025-06-26,2026-07-22,1,761.13,761.13,Electronics,Online,New,46,3,At Risk,Low Value,Bronze
+CUST0006,Divya Gupta,29,Female,Coimbatore,Engineer,Medium,2025-07-23,2026-02-23,1,745.96,745.96,Sports & Fitness,Online,New,22,2,Churned,Low Value,Bronze
+CUST0007,Rohan Gupta,38,Male,Hyderabad,Business Owner,Low,2024-11-01,2026-09-27,2,620.36,1240.71,Fashion,Online,Returning,74,4,Retained,Low Value,Bronze
+CUST0008,Rahul Nair,54,Female,Mangaluru,Government Employee,High,2023-02-25,2026-08-06,5,401.85,2009.25,Electronics,Offline,Returning,83,5,Retained,Medium Value,Bronze
+CUST0009,Aditya Kumar,46,Male,Mumbai,Marketing Professional,High,2024-04-29,2026-09-13,4,858.32,3433.27,Fashion,Offline,Returning,63,4,Retained,Medium Value,Bronze
+CUST0010,Manoj Das,29,Female,Hubballi,Business Owner,Low,2025-11-26,2026-07-27,2,732.39,1464.78,Electronics,App,Returning,40,3,At Risk,Low Value,Bronze
+CUST0011,Rohan Reddy,30,Male,Mangaluru,Finance Professional,Medium,2025-11-23,2026-09-20,4,711.14,2844.54,Home & Kitchen,Offline,Returning,87,4,Retained,Medium Value,Bronze
+CUST0012,Rohan Patel,38,Female,Coimbatore,Government Employee,High,2026-04-30,2026-08-21,1,809.84,809.84,Fashion,Offline,New,76,4,Retained,Low Value,Bronze
+CUST0013,Varun Das,18,Male,Bengaluru,Engineer,High,2025-10-20,2026-08-28,2,406.46,812.92,Beauty & Personal Care,Offline,Returning,66,5,Retained,Low Value,Bronze
+CUST0014,Arjun Kumar,25,Female,Hubballi,Marketing Professional,High,2025-08-22,2026-09-24,1,1066.74,1066.74,Sports & Fitness,App,New,93,5,Retained,Low Value,Bronze
+CUST0015,Manoj Nair,38,Female,Mysuru,Engineer,Medium,2025-05-23,2026-08-01,2,664.6,1329.2,Electronics,Online,Returning,94,5,Retained,Low Value,Bronze
+CUST0016,Neha Menon,32,Male,Hubballi,Healthcare,Medium,2023-06-20,2026-09-24,2,259.17,518.34,Fashion,Online,Returning,72,5,Retained,Low Value,Bronze
+CUST0017,Diya Naidu,53,Male,Mysuru,Marketing Professional,Low,2023-12-11,2026-07-11,4,844.04,3376.18,Sports & Fitness,Offline,Returning,49,4,At Risk,Medium Value,Bronze
+CUST0018,Pooja Rao,27,Female,Mangaluru,Student,High,2026-07-12,2026-07-12,1,317.62,317.62,Fashion,Offline,New,41,3,At Risk,Low Value,Bronze
+CUST0019,Divya Gupta,23,Male,Pune,IT Professional,Low,2025-06-04,2026-09-26,2,1266.06,2532.12,Electronics,Offline,Returning,75,4,Retained,Medium Value,Bronze
+CUST0020,Ananya Shetty,25,Female,Mangaluru,IT Professional,Medium,2025-05-24,2026-08-07,5,900.17,4500.86,Home & Kitchen,Offline,Returning,66,5,Retained,Medium Value,Silver
+CUST0021,Kavya Das,34,Female,Hyderabad,Engineer,Low,2024-03-30,2026-06-15,3,1115.45,3346.34,Grocery,Offline,Returning,75,4,At Risk,Medium Value,Bronze
+CUST0022,Sneha Joshi,32,Male,Bengaluru,Other,High,2023-12-13,2026-08-14,3,803.09,2409.28,Grocery,Offline,Returning,81,4,Retained,Medium Value,Bronze
+CUST0023,Akash Joshi,56,Female,Chennai,IT Professional,Medium,2023-09-25,2026-05-02,4,688.98,2755.93,Electronics,Offline,Returning,19,2,Churned,Medium Value,Bronze
+CUST0024,Priya Menon,30,Male,Bengaluru,Engineer,Medium,2023-06-15,2026-07-01,5,571.74,2858.68,Beauty & Personal Care,Offline,Returning,68,3,At Risk,Medium Value,Bronze
+CUST0025,Aditi Das,34,Male,Bengaluru,Student,Medium,2024-05-10,2026-08-26,5,1070.88,5354.42,Electronics,Offline,Returning,73,5,Retained,High Value,Silver
+CUST0026,Arjun Naidu,42,Male,Coimbatore,Student,Low,2023-09-27,2025-12-05,6,1001.78,6010.69,Home & Kitchen,App,Returning,40,3,Churned,High Value,Silver
+CUST0027,Manoj Sharma,32,Male,Hyderabad,Finance Professional,Low,2025-05-30,2026-08-10,2,707.48,1414.97,Sports & Fitness,Online,Returning,71,4,Retained,Low Value,Bronze
+CUST0028,Vikram Das,39,Male,Coimbatore,Other,Medium,2026-01-23,2026-09-01,3,1222.01,3666.02,Home & Kitchen,Online,Returning,76,4,Retained,Medium Value,Bronze
+CUST0029,Diya Singh,37,Female,Hyderabad,Student,Low,2026-05-30,2026-09-09,2,1078.76,2157.52,Beauty & Personal Care,Offline,Returning,54,4,Retained,Medium Value,Bronze
+CUST0030,Meera Iyer,42,Female,Mysuru,IT Professional,Low,2023-11-30,2026-09-06,2,208.68,417.35,Grocery,Offline,Returning,83,4,Retained,Low Value,Bronze
+CUST0031,Rahul Menon,19,Male,Pune,Business Owner,High,2025-09-27,2026-09-30,4,901.18,3604.71,Electronics,Online,Returning,77,5,Retained,Medium Value,Bronze
+CUST0032,Vikram Das,42,Male,Hyderabad,Student,Medium,2024-07-26,2026-08-17,1,348.28,348.28,Fashion,Offline,New,87,4,Retained,Low Value,Bronze
+CUST0033,Rohan Gupta,32,Female,Mysuru,Other,Low,2023-08-29,2026-07-25,1,552.08,552.08,Beauty & Personal Care,Offline,New,55,3,At Risk,Low Value,Bronze
+CUST0034,Aditya Das,35,Male,Chennai,Teacher,High,2026-03-04,2026-06-10,2,471.4,942.81,Fashion,Offline,Returning,53,3,At Risk,Low Value,Bronze
+CUST0035,Diya Iyer,30,Male,Mumbai,Healthcare,High,2025-02-11,2026-09-11,4,914.9,3659.62,Electronics,Offline,Returning,64,4,Retained,Medium Value,Bronze
+CUST0036,Kiran Iyer,50,Male,Chennai,Engineer,Medium,2025-09-05,2026-09-26,3,971.35,2914.06,Electronics,App,Returning,72,4,Retained,Medium Value,Bronze
+CUST0037,Varun Sharma,18,Female,Mangaluru,Healthcare,Medium,2025-11-10,2026-08-20,1,1236.72,1236.72,Grocery,App,New,89,4,Retained,Low Value,Bronze
+CUST0038,Sanjay Singh,47,Female,Chennai,Student,Low,2026-02-09,2026-09-25,3,705.44,2116.32,Electronics,Offline,Returning,85,4,Retained,Medium Value,Bronze
+CUST0039,Diya Singh,27,Male,Mysuru,Student,High,2025-01-21,2026-09-25,1,743.48,743.48,Home & Kitchen,App,New,63,4,Retained,Low Value,Bronze
+CUST0040,Aditya Menon,49,Female,Hubballi,IT Professional,Low,2024-08-18,2026-08-18,3,512.32,1536.95,Electronics,App,Returning,91,5,Retained,Low Value,Bronze
+CUST0041,Divya Iyer,46,Female,Hyderabad,IT Professional,Medium,2023-04-20,2026-09-19,3,978.1,2934.29,Fashion,App,Returning,73,5,Retained,Medium Value,Bronze
+CUST0042,Manoj Verma,44,Male,Chennai,Finance Professional,High,2024-04-11,2026-08-03,6,991.75,5950.51,Home & Kitchen,Online,Returning,74,5,Retained,High Value,Silver
+CUST0043,Arjun Singh,42,Female,Pune,Healthcare,High,2024-02-10,2026-07-30,5,479.18,2395.89,Fashion,Online,Returning,71,4,At Risk,Medium Value,Bronze
+CUST0044,Riya Das,56,Female,Belagavi,Student,Medium,2024-08-23,2026-08-08,3,598.44,1795.32,Home & Kitchen,Offline,Returning,80,5,Retained,Low Value,Bronze
+CUST0045,Kiran Das,28,Female,Bengaluru,Finance Professional,Medium,2026-01-08,2026-09-20,4,936.0,3744.0,Home & Kitchen,Online,Returning,72,5,Retained,Medium Value,Bronze
+CUST0046,Ananya Verma,28,Female,Pune,Healthcare,High,2024-05-16,2026-07-03,5,576.93,2884.63,Electronics,Online,Returning,61,4,At Risk,Medium Value,Bronze
+CUST0047,Priya Sharma,27,Male,Pune,Engineer,Low,2024-03-12,2026-02-28,4,845.71,3382.84,Electronics,Online,Returning,41,2,Churned,Medium Value,Bronze
+CUST0048,Manoj Naidu,43,Male,Mumbai,Business Owner,Low,2025-10-09,2026-09-14,2,1576.23,3152.46,Fashion,Offline,Returning,75,4,Retained,Medium Value,Bronze
+CUST0049,Neha Naidu,21,Female,Mangaluru,Marketing Professional,High,2023-12-26,2026-06-14,4,846.76,3387.05,Electronics,App,Returning,39,4,At Risk,Medium Value,Bronze
+CUST0050,Aditya Sharma,44,Male,Hyderabad,Student,Medium,2023-12-13,2026-08-31,5,1380.55,6902.73,Beauty & Personal Care,App,Returning,78,5,Retained,High Value,Silver
+CUST0051,Vikram Joshi,31,Female,Hyderabad,Student,Low,2025-04-22,2026-03-01,2,893.16,1786.33,Fashion,Offline,Returning,37,3,Churned,Low Value,Bronze
+CUST0052,Rahul Nair,23,Male,Hyderabad,Teacher,Low,2025-12-17,2026-08-10,1,848.13,848.13,Fashion,Online,New,60,4,Retained,Low Value,Bronze
+CUST0053,Ishaan Nair,23,Female,Coimbatore,Healthcare,High,2023-10-14,2026-08-26,3,1090.1,3270.3,Grocery,App,Returning,88,3,Retained,Medium Value,Bronze
+CUST0054,Manoj Gupta,26,Female,Chennai,Finance Professional,High,2025-12-10,2026-01-16,1,1271.64,1271.64,Electronics,Offline,New,0,2,Churned,Low Value,Bronze
+CUST0055,Varun Naidu,19,Female,Coimbatore,Teacher,Low,2024-12-20,2026-07-20,3,1018.04,3054.13,Home & Kitchen,Online,Returning,62,3,At Risk,Medium Value,Bronze
+CUST0056,Aarav Gupta,39,Male,Hubballi,Other,High,2024-05-26,2026-09-02,1,1948.82,1948.82,Sports & Fitness,Offline,New,78,4,Retained,Low Value,Bronze
+CUST0057,Akash Reddy,42,Male,Mangaluru,Government Employee,Low,2024-12-27,2026-07-22,5,741.97,3709.87,Beauty & Personal Care,Online,Returning,62,3,At Risk,Medium Value,Bronze
+CUST0058,Varun Iyer,43,Female,Chennai,Engineer,Medium,2023-12-27,2026-09-16,4,814.24,3256.96,Home & Kitchen,Offline,Returning,68,5,Retained,Medium Value,Bronze
+CUST0059,Neha Reddy,27,Female,Pune,Other,Medium,2026-04-26,2026-08-29,1,1918.22,1918.22,Sports & Fitness,Online,New,74,5,Retained,Low Value,Bronze
+CUST0060,Priya Iyer,37,Male,Belagavi,Healthcare,Medium,2025-11-04,2026-02-01,2,1384.83,2769.66,Grocery,Offline,Returning,38,3,Churned,Medium Value,Bronze
+CUST0061,Kiran Gupta,34,Male,Belagavi,Other,Medium,2024-06-08,2026-09-09,5,789.46,3947.28,Grocery,Online,Returning,79,4,Retained,Medium Value,Bronze
+CUST0062,Akash Patel,40,Non-binary,Pune,Other,Medium,2024-07-14,2026-09-25,2,1412.89,2825.78,Fashion,Offline,Returning,81,4,Retained,Medium Value,Bronze
+CUST0063,Harish Shetty,38,Male,Hyderabad,Business Owner,High,2026-04-12,2026-08-31,1,823.38,823.38,Grocery,Online,New,76,5,Retained,Low Value,Bronze
+CUST0064,Kavya Sharma,34,Female,Pune,Marketing Professional,Medium,2023-11-25,2026-03-23,6,1234.36,7406.14,Home & Kitchen,Online,Returning,33,3,Churned,High Value,Gold
+CUST0065,Sanjay Singh,18,Male,Bengaluru,Student,Medium,2023-07-21,2026-08-19,4,1192.53,4770.14,Beauty & Personal Care,Online,Returning,100,3,Retained,Medium Value,Silver
+CUST0066,Akash Shetty,32,Female,Chennai,Marketing Professional,High,2024-11-06,2026-08-01,3,933.17,2799.51,Grocery,Offline,Returning,73,5,Retained,Medium Value,Bronze
+CUST0067,Rohan Menon,35,Male,Coimbatore,Government Employee,Medium,2025-12-18,2026-01-15,1,728.97,728.97,Beauty & Personal Care,App,New,28,4,Churned,Low Value,Bronze
+CUST0068,Aditi Menon,27,Female,Mysuru,Government Employee,Low,2025-07-26,2026-09-09,2,1225.81,2451.62,Sports & Fitness,Online,Returning,84,3,Retained,Medium Value,Bronze
+CUST0069,Varun Menon,31,Female,Pune,Student,High,2026-04-27,2026-08-23,1,297.42,297.42,Grocery,App,New,85,4,Retained,Low Value,Bronze
+CUST0070,Ananya Das,21,Female,Bengaluru,Teacher,Medium,2023-10-21,2026-06-04,4,593.63,2374.52,Fashion,Offline,Returning,56,2,At Risk,Medium Value,Bronze
+CUST0071,Akash Patel,30,Female,Mangaluru,Government Employee,Low,2024-05-23,2026-07-11,1,415.71,415.71,Sports & Fitness,App,New,44,4,At Risk,Low Value,Bronze
+CUST0072,Priya Verma,39,Male,Mumbai,Other,Low,2023-04-05,2026-04-20,3,634.1,1902.31,Grocery,Offline,Returning,25,2,Churned,Low Value,Bronze
+CUST0073,Meera Gupta,54,Female,Mumbai,Marketing Professional,High,2025-03-03,2026-09-08,2,374.44,748.88,Fashion,App,Returning,52,4,Retained,Low Value,Bronze
+CUST0074,Pooja Iyer,23,Female,Mangaluru,Teacher,High,2023-08-23,2026-06-29,6,521.54,3129.21,Home & Kitchen,Offline,Returning,75,3,At Risk,Medium Value,Bronze
+CUST0075,Riya Singh,33,Female,Belagavi,Other,High,2024-11-12,2026-09-06,5,992.5,4962.5,Electronics,Offline,Returning,77,5,Retained,Medium Value,Silver
+CUST0076,Divya Iyer,24,Male,Coimbatore,IT Professional,High,2024-04-24,2026-03-03,6,655.44,3932.62,Sports & Fitness,Offline,Returning,16,3,Churned,Medium Value,Bronze
+CUST0077,Varun Shetty,33,Female,Mysuru,Teacher,Medium,2023-05-20,2026-06-09,5,390.52,1952.58,Home & Kitchen,App,Returning,66,3,At Risk,Low Value,Bronze
+CUST0078,Priya Shetty,31,Male,Mumbai,Engineer,Medium,2023-11-18,2026-07-13,3,454.12,1362.37,Grocery,App,Returning,62,4,At Risk,Low Value,Bronze
+CUST0079,Sneha Das,42,Male,Belagavi,IT Professional,High,2023-06-20,2026-09-20,4,1228.07,4912.29,Sports & Fitness,App,Returning,75,5,Retained,Medium Value,Silver
+CUST0080,Kiran Verma,43,Male,Coimbatore,Healthcare,Low,2025-02-15,2026-09-27,5,950.62,4753.08,Electronics,App,Returning,71,5,Retained,Medium Value,Silver
+CUST0081,Akash Reddy,35,Male,Bengaluru,Healthcare,High,2025-01-06,2026-08-16,2,469.14,938.29,Fashion,Offline,Returning,85,5,Retained,Low Value,Bronze
+CUST0082,Harish Shetty,32,Male,Mumbai,IT Professional,High,2025-09-13,2026-08-03,4,620.81,2483.25,Beauty & Personal Care,Offline,Returning,77,5,Retained,Medium Value,Bronze
+CUST0083,Sneha Kumar,45,Male,Belagavi,Marketing Professional,Medium,2024-11-01,2026-09-17,4,1124.53,4498.13,Beauty & Personal Care,App,Returning,68,5,Retained,Medium Value,Silver
+CUST0084,Nisha Sharma,35,Male,Belagavi,IT Professional,Low,2023-12-15,2026-06-04,1,1875.92,1875.92,Grocery,Offline,New,63,4,At Risk,Low Value,Bronze
+CUST0085,Varun Verma,49,Female,Belagavi,Business Owner,Low,2025-12-07,2026-09-26,2,1095.12,2190.25,Home & Kitchen,Online,Returning,68,4,Retained,Medium Value,Bronze
+CUST0086,Ananya Iyer,18,Female,Mysuru,Teacher,Medium,2023-09-26,2026-08-30,2,501.8,1003.59,Fashion,App,Returning,100,5,Retained,Low Value,Bronze
+CUST0087,Nisha Kumar,51,Female,Belagavi,Engineer,Medium,2026-04-25,2026-06-27,1,392.83,392.83,Grocery,Offline,New,41,3,At Risk,Low Value,Bronze
+CUST0088,Aditi Gupta,27,Male,Mysuru,Government Employee,Low,2024-01-31,2026-08-20,4,896.4,3585.61,Home & Kitchen,Online,Returning,89,5,Retained,Medium Value,Bronze
+CUST0089,Sanjay Verma,23,Female,Hyderabad,Other,Low,2024-03-01,2026-07-11,1,1822.68,1822.68,Beauty & Personal Care,Offline,New,77,3,At Risk,Low Value,Bronze
+CUST0090,Akash Joshi,33,Female,Mysuru,IT Professional,High,2025-07-30,2026-08-05,4,636.47,2545.88,Home & Kitchen,Offline,Returning,73,4,Retained,Medium Value,Bronze
+CUST0091,Nisha Nair,22,Male,Bengaluru,Teacher,Low,2023-12-23,2026-01-14,2,507.35,1014.7,Beauty & Personal Care,Offline,Returning,21,2,Churned,Low Value,Bronze
+CUST0092,Meera Singh,39,Male,Chennai,Teacher,Medium,2024-02-25,2026-09-01,5,541.57,2707.84,Beauty & Personal Care,Offline,Returning,88,5,Retained,Medium Value,Bronze
+CUST0093,Pooja Singh,29,Female,Coimbatore,Student,Low,2023-05-10,2025-12-28,2,1180.11,2360.22,Beauty & Personal Care,Online,Returning,41,3,Churned,Medium Value,Bronze
+CUST0094,Pooja Gupta,36,Male,Mumbai,Other,Medium,2025-04-15,2026-07-09,6,710.98,4265.87,Grocery,Offline,Returning,67,4,At Risk,Medium Value,Silver
+CUST0095,Riya Reddy,24,Male,Mysuru,Other,Medium,2024-12-09,2026-09-20,3,861.66,2584.97,Grocery,App,Returning,85,4,Retained,Medium Value,Bronze
+CUST0096,Ishaan Das,31,Female,Pune,Marketing Professional,High,2024-03-10,2026-08-29,6,784.38,4706.31,Home & Kitchen,App,Returning,79,4,Retained,Medium Value,Silver
+CUST0097,Diya Das,34,Female,Hyderabad,Engineer,Medium,2024-04-08,2026-08-10,2,1705.9,3411.8,Electronics,Online,Returning,49,4,Retained,Medium Value,Bronze
+CUST0098,Aditya Nair,32,Male,Hyderabad,Healthcare,High,2024-11-22,2026-08-02,5,1251.45,6257.24,Fashion,Offline,Returning,92,5,Retained,High Value,Silver
+CUST0099,Diya Menon,49,Female,Hyderabad,IT Professional,Medium,2024-06-29,2026-08-25,6,680.37,4082.24,Grocery,App,Returning,61,4,Retained,Medium Value,Silver
+CUST0100,Akash Das,39,Male,Mangaluru,Government Employee,Low,2025-10-29,2026-06-06,2,634.32,1268.64,Beauty & Personal Care,Online,Returning,62,4,At Risk,Low Value,Bronze
+CUST0101,Kiran Patel,36,Female,Mumbai,Finance Professional,Medium,2025-04-20,2026-07-05,3,441.18,1323.53,Beauty & Personal Care,Offline,Returning,58,4,At Risk,Low Value,Bronze
+CUST0102,Meera Naidu,18,Male,Mangaluru,Business Owner,Medium,2025-07-05,2026-09-25,6,667.77,4006.6,Fashion,Online,Returning,74,5,Retained,Medium Value,Silver
+CUST0103,Pooja Joshi,37,Non-binary,Mysuru,Engineer,Medium,2026-07-01,2026-07-01,1,795.04,795.04,Home & Kitchen,Online,New,55,4,At Risk,Low Value,Bronze
+CUST0104,Varun Sharma,46,Male,Mysuru,Teacher,Low,2023-07-16,2026-06-24,5,1057.9,5289.49,Home & Kitchen,Online,Returning,51,3,At Risk,High Value,Silver
+CUST0105,Pooja Rao,27,Non-binary,Mysuru,Healthcare,Low,2024-07-27,2026-08-08,5,734.0,3670.01,Fashion,App,Returning,84,4,Retained,Medium Value,Bronze
+CUST0106,Arjun Menon,32,Female,Coimbatore,Engineer,Low,2025-02-02,2026-08-22,3,748.57,2245.71,Sports & Fitness,Offline,Returning,76,4,Retained,Medium Value,Bronze
+CUST0107,Ananya Singh,18,Male,Mangaluru,Government Employee,Medium,2023-10-04,2026-08-10,2,424.14,848.29,Beauty & Personal Care,App,Returning,90,5,Retained,Low Value,Bronze
+CUST0108,Sneha Gupta,21,Female,Hyderabad,Healthcare,Low,2026-04-21,2026-07-08,1,543.5,543.5,Home & Kitchen,Online,New,56,3,At Risk,Low Value,Bronze
+CUST0109,Neha Menon,18,Male,Belagavi,Other,High,2024-10-23,2026-08-08,6,648.92,3893.53,Electronics,App,Returning,80,4,Retained,Medium Value,Bronze
+CUST0110,Rahul Sharma,35,Male,Mumbai,Student,High,2024-09-21,2026-08-25,4,406.08,1624.32,Home & Kitchen,Online,Returning,76,5,Retained,Low Value,Bronze
+CUST0111,Sanjay Gupta,32,Male,Mysuru,Marketing Professional,Low,2025-01-06,2026-07-28,6,921.14,5526.85,Grocery,Offline,Returning,74,3,At Risk,High Value,Silver
+CUST0112,Vikram Iyer,32,Female,Hyderabad,Student,High,2026-04-13,2026-06-15,1,1734.44,1734.44,Fashion,Offline,New,62,3,At Risk,Low Value,Bronze
+CUST0113,Neha Verma,29,Female,Mangaluru,Other,High,2025-10-01,2026-09-24,3,421.83,1265.5,Beauty & Personal Care,Online,Returning,73,5,Retained,Low Value,Bronze
+CUST0114,Priya Shetty,44,Male,Mysuru,Business Owner,High,2025-07-14,2026-05-14,3,685.27,2055.8,Fashion,App,Returning,38,4,Churned,Medium Value,Bronze
+CUST0115,Ananya Gupta,21,Male,Bengaluru,Student,Medium,2026-06-16,2026-06-16,1,400.06,400.06,Sports & Fitness,Online,New,63,3,At Risk,Low Value,Bronze
+CUST0116,Sanjay Kumar,33,Female,Pune,Finance Professional,Low,2023-03-30,2026-06-06,4,796.56,3186.26,Fashion,Offline,Returning,47,3,At Risk,Medium Value,Bronze
+CUST0117,Neha Sharma,39,Female,Pune,Other,High,2023-08-25,2026-08-04,4,768.56,3074.25,Electronics,Offline,Returning,86,4,Retained,Medium Value,Bronze
+CUST0118,Ishaan Rao,32,Female,Mumbai,Government Employee,High,2025-12-03,2026-09-03,1,344.72,344.72,Grocery,Online,New,69,5,Retained,Low Value,Bronze
+CUST0119,Sanjay Reddy,33,Male,Bengaluru,Other,High,2023-07-19,2026-08-15,1,527.6,527.6,Home & Kitchen,Online,New,77,5,Retained,Low Value,Bronze
+CUST0120,Akash Nair,25,Male,Chennai,IT Professional,Medium,2023-09-01,2026-07-31,3,480.09,1440.27,Electronics,Offline,Returning,44,3,At Risk,Low Value,Bronze
+CUST0121,Pooja Das,30,Male,Chennai,Marketing Professional,Low,2025-08-05,2026-01-31,3,660.29,1980.88,Fashion,Offline,Returning,23,3,Churned,Low Value,Bronze
+CUST0122,Rahul Verma,41,Male,Chennai,Marketing Professional,Low,2024-01-03,2026-09-03,5,682.22,3411.11,Home & Kitchen,App,Returning,62,4,Retained,Medium Value,Bronze
+CUST0123,Sanjay Joshi,18,Female,Pune,Other,High,2024-06-28,2026-09-22,4,499.07,1996.27,Fashion,Offline,Returning,88,4,Retained,Low Value,Bronze
+CUST0124,Kiran Iyer,32,Male,Hyderabad,Government Employee,Medium,2024-04-18,2026-07-03,3,1588.96,4766.88,Beauty & Personal Care,Offline,Returning,71,4,At Risk,Medium Value,Silver
+CUST0125,Aditi Verma,28,Male,Hubballi,Finance Professional,Medium,2024-03-25,2026-08-12,3,457.28,1371.84,Home & Kitchen,Offline,Returning,88,5,Retained,Low Value,Bronze
+CUST0126,Sneha Iyer,33,Female,Hubballi,Healthcare,High,2025-04-02,2026-08-12,5,743.07,3715.37,Home & Kitchen,Online,Returning,69,4,Retained,Medium Value,Bronze
+CUST0127,Ishaan Verma,51,Female,Hubballi,Engineer,Low,2023-07-06,2026-09-24,3,303.9,911.69,Fashion,Offline,Returning,67,4,Retained,Low Value,Bronze
+CUST0128,Rohan Gupta,29,Male,Hyderabad,Student,Medium,2023-06-06,2026-08-03,1,833.11,833.11,Sports & Fitness,App,New,67,5,Retained,Low Value,Bronze
+CUST0129,Aarav Joshi,48,Female,Hubballi,Engineer,High,2026-03-12,2026-06-26,2,652.98,1305.95,Sports & Fitness,App,Returning,60,4,At Risk,Low Value,Bronze
+CUST0130,Riya Naidu,45,Female,Mumbai,Teacher,High,2025-07-30,2026-08-09,2,347.48,694.97,Fashion,Offline,Returning,67,4,Retained,Low Value,Bronze
+CUST0131,Arjun Iyer,34,Male,Mumbai,Finance Professional,Low,2026-04-13,2026-07-14,2,631.28,1262.56,Beauty & Personal Care,App,Returning,65,4,At Risk,Low Value,Bronze
+CUST0132,Aarav Nair,34,Female,Pune,IT Professional,Medium,2024-07-05,2026-07-11,1,331.42,331.42,Sports & Fitness,Online,New,59,3,At Risk,Low Value,Bronze
+CUST0133,Sneha Joshi,35,Male,Bengaluru,Student,Low,2024-09-17,2026-09-06,6,579.41,3476.43,Fashion,App,Returning,59,5,Retained,Medium Value,Bronze
+CUST0134,Ishaan Shetty,25,Female,Bengaluru,Other,High,2023-11-18,2026-09-03,5,483.24,2416.2,Home & Kitchen,Offline,Returning,69,5,Retained,Medium Value,Bronze
+CUST0135,Divya Nair,40,Female,Mysuru,Teacher,Low,2023-05-09,2026-09-03,5,767.3,3836.51,Home & Kitchen,App,Returning,68,5,Retained,Medium Value,Bronze
+CUST0136,Pooja Nair,27,Female,Mumbai,Business Owner,High,2023-12-19,2026-06-30,4,1237.53,4950.11,Fashion,App,Returning,65,2,At Risk,Medium Value,Silver
+CUST0137,Rohan Nair,34,Female,Mumbai,Healthcare,Low,2023-01-15,2026-09-09,5,883.47,4417.36,Home & Kitchen,Offline,Returning,73,4,Retained,Medium Value,Silver
+CUST0138,Pooja Gupta,18,Male,Mysuru,Teacher,Low,2025-03-17,2026-09-03,3,595.02,1785.06,Electronics,Online,Returning,91,3,Retained,Low Value,Bronze
+CUST0139,Vikram Shetty,25,Female,Hubballi,Other,Medium,2024-03-02,2026-03-09,3,1166.87,3500.61,Fashion,App,Returning,33,3,Churned,Medium Value,Bronze
+CUST0140,Ishaan Menon,39,Male,Pune,Student,High,2023-08-04,2026-08-24,2,1069.42,2138.84,Fashion,Online,Returning,72,5,Retained,Medium Value,Bronze
+CUST0141,Nisha Rao,22,Female,Chennai,Finance Professional,Medium,2025-11-17,2026-05-08,1,869.36,869.36,Sports & Fitness,Offline,New,36,2,Churned,Low Value,Bronze
+CUST0142,Vikram Menon,37,Female,Mangaluru,Other,High,2025-12-09,2026-08-15,2,830.62,1661.24,Fashion,Offline,Returning,83,5,Retained,Low Value,Bronze
+CUST0143,Sneha Iyer,28,Male,Chennai,Student,Medium,2023-08-14,2026-09-23,2,1074.62,2149.24,Electronics,Online,Returning,73,5,Retained,Medium Value,Bronze
+CUST0144,Vikram Joshi,43,Male,Mysuru,Business Owner,Medium,2023-02-26,2026-09-14,5,784.19,3920.93,Beauty & Personal Care,Online,Returning,80,4,Retained,Medium Value,Bronze
+CUST0145,Rahul Das,46,Female,Hubballi,Business Owner,High,2024-02-18,2026-05-19,3,1074.55,3223.66,Home & Kitchen,Online,Returning,27,4,Churned,Medium Value,Bronze
+CUST0146,Arjun Verma,35,Female,Coimbatore,Teacher,High,2025-01-16,2026-08-26,3,838.95,2516.84,Grocery,App,Returning,75,5,Retained,Medium Value,Bronze
+CUST0147,Aditya Naidu,33,Female,Pune,Government Employee,Low,2024-03-11,2026-09-04,3,663.64,1990.92,Fashion,App,Returning,73,5,Retained,Low Value,Bronze
+CUST0148,Rohan Nair,34,Male,Mumbai,IT Professional,Low,2023-11-09,2026-08-10,6,684.29,4105.74,Home & Kitchen,App,Returning,65,4,Retained,Medium Value,Silver
+CUST0149,Riya Nair,33,Male,Coimbatore,Other,High,2024-01-17,2026-08-04,2,1562.92,3125.84,Electronics,Offline,Returning,79,5,Retained,Medium Value,Bronze
+CUST0150,Nisha Patel,45,Female,Hubballi,Finance Professional,Medium,2023-07-08,2026-01-06,1,225.06,225.06,Grocery,Online,New,49,3,Churned,Low Value,Bronze
